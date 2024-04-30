@@ -1,0 +1,17 @@
+{
+  "name": "backend_bawaal",
+  "version": "1.0.0",
+  "description": "backend start kr diya maine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tarang",
+    "backend",
+    "chai",
+    "javascript"
+  ],
+  "author": "Tarang Singh",
+  "license": "ISC"
+}
